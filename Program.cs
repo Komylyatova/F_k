@@ -1,7 +1,7 @@
 ﻿using FitnessClub.Domain;
 using FitnessClub.Factories; Доброе утро, Настя, с Праздником!
 
-class Program
+class Program // hello komalyatova, Ёу
 {
     static void Main()
     {
