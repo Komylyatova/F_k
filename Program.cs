@@ -1,5 +1,5 @@
 ﻿using FitnessClub.Domain;
-using FitnessClub.Factories;
+using FitnessClub.Factories; Доброе утро, Настя, с Праздником!
 
 class Program
 {
